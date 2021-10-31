@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-jpordoy/jpordoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://cdn.ttgtmedia.com/visuals/searchSoftwareQuality/requirements_bestpractices/softwarequality_article_012.jpg" width="350" title="hover text">
+  <img src="https://cdn.ttgtmedia.com/visuals/searchSoftwareQuality/requirements_bestpractices/softwarequality_article_012.jpg" width="350" alt="accessibility text">
+</p>
